@@ -1,0 +1,2 @@
+Sitemap: https://eldorado.blue/sitemap.xml
+User-agent: *
